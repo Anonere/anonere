@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonere" alt="anonere" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anonere" target="blank"><img src="https://img.shields.io/twitter/follow/anonere?logo=twitter&style=for-the-badge" alt="anonere" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anonhere" target="blank"><img src="https://img.shields.io/twitter/follow/anonhere?logo=twitter&style=for-the-badge" alt="anonhere" /></a> </p>
 
 - 🌱 I’m currently learning **PHP PYTHON HTML CSS**
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://codepen.io/anonere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anonere" height="30" width="40" /></a>
 <a href="https://dev.to/anonere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anonere" height="30" width="40" /></a>
-<a href="https://twitter.com/anonere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anonere" height="30" width="40" /></a>
+<a href="https://twitter.com/anonere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anonhere" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anonere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anonere" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/anonere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anonere" height="30" width="40" /></a>
 <a href="https://codesandbox.com/anonere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="anonere" height="30" width="40" /></a>
