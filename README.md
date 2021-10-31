@@ -53,7 +53,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/anonhere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anonhere" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonhere&show_icons=true&locale=en&layout=compact" alt="anonhere" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonere&show_icons=true&locale=en&layout=compact" alt="anonere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonere&show_icons=true&locale=en" alt="anonere" /></p>
 
